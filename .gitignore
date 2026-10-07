@@ -7,3 +7,4 @@
 # 3. Allow the specific folder you want to keep
 !/Source/
 # 4. Allow the readme file
+!README.md
